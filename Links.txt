@@ -1,0 +1,6 @@
+https://www.kaggle.com/competitions/data-science-bowl-2018/data
+
+
+https://blog.csdn.net/qq_21997625/article/details/83213326
+
+https://github.com/4uiiurz1/pytorch-nested-unet
