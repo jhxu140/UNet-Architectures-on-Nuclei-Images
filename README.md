@@ -8,9 +8,11 @@ In this project, I studies how to use Unet Architectures to perform semantics se
 
 # Result
 
+## Scores
 The IoU score of UNet is 0.835.
+
 The IoU score of UNet++ with Deep Supervision is 0.837.
 
-
+## Comparison Plots
 ![Screenshot](Figure_1.png)
 
