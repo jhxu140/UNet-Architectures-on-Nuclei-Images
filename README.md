@@ -4,6 +4,8 @@ This repository contains code for a image segmentation model based on UNet Archi
 
 Models are trained using 2018 Data Science Bowl: https://www.kaggle.com/c/data-science-bowl-2018
 
+Reference: https://github.com/jeya-maria-jose/UNeXt-pytorch
+
 In this project, I studies how to use Unet Architectures to perform semantics segmentation on micro imgages of Nuclei. 
 
 # Result
